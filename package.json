@@ -1,0 +1,19 @@
+{
+  "name": "koa4listen",
+  "version": "0.0.0",
+  "description": "provide a function for create http or https server to listen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/koa4listen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/koa4listen/issues"
+  },
+  "homepage": "https://github.com/josudoey/koa4listen#readme"
+}
